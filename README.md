@@ -7,6 +7,7 @@ Ruby is not only a very strong material, but it has hidden benefits.
 In this .jar holds:
 
 Rose Quartz Armor Set, Rose Quartz Tool Set, Rose Quartz Ore Block, Rose Quartz Block, Rose Quartz Recipes, Rose Quartz
+
 For installation, just like all other MC mods:
 
 [If you have not setup Forge version 1.20 or newer, do that or this will not work. Minecraft will not understand what to do with the mod.]
